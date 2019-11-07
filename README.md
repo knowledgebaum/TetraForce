@@ -32,3 +32,15 @@ Finally, *level designers* that can design Zelda overworlds and dungeons will be
 
 ##### Join our Discord!
 Join our Discord server for updates and discussion: https://discord.gg/cxTBVCZ
+
+##### Instructions
+
+Clone this github project 
+
+Download Gadot for your OS (https://godotengine.org/download/)
+
+Open Godot 
+Click Import (in Godo Engine - Project Manager Window)
+Enter path_to_project/project.godot (from step 1) (in the Import Existing Project Dialog Box)
+Click Import & Edit
+Press the play button on the upper right to enter the game
